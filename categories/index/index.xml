@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>index on Jane - A super concise theme for Hugo</title>
+    <title>index on Imymirror - A personal blog for Imymirror</title>
     <link>http://localhost:1313/categories/index/</link>
-    <description>Recent content in index on Jane - A super concise theme for Hugo</description>
+    <description>Recent content in index on Imymirror - A personal blog for Imymirror</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Mon, 04 Mar 2019 16:01:23 +0800</lastBuildDate>
@@ -12,7 +12,7 @@
     
     
     <item>
-      <title>Jane 主题预览</title>
+      <title>Jane wzg 主题预览修改测试</title>
       <link>http://localhost:1313/post/jane-theme-preview.zh-cn/</link>
       <pubDate>Tue, 06 Mar 2018 16:01:23 +0800</pubDate>
       
