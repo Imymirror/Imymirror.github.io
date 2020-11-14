@@ -6,7 +6,7 @@ draft: false
 tags: ["preview", "shortcodes", "tag-6"]
 categories: ["shortcodes", "index"]
 author: "Typora"
-
+menu: 'test'
 weight: 1
 
 # You can also close(false) or open(true) something for this content.
@@ -22,4 +22,3 @@ mathjax: true
 
 主题预览,内容有待填充。
 
-我不知道对不对, 但是我需要修改看看.
