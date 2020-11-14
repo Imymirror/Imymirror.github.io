@@ -8,6 +8,7 @@ categories: ["shortcodes", "index"]
 author: "Typora"
 menu: 'test'
 weight: 1
+comment: true
 
 # You can also close(false) or open(true) something for this content.
 # P.S. comment can only be closed
