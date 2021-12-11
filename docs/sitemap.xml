@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://imymirror.github.io/blog/categories/</loc>
+    <lastmod>2021-12-12T03:49:28+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://imymirror.github.io/blog/</loc>
+    <lastmod>2021-12-12T03:49:28+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://imymirror.github.io/blog/posts/</loc>
+    <lastmod>2021-12-12T03:49:28+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://imymirror.github.io/blog/categories/test/</loc>
+    <lastmod>2021-12-12T03:49:28+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://imymirror.github.io/blog/posts/test/</loc>
+    <lastmod>2021-12-12T03:49:28+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://imymirror.github.io/blog/tags/</loc>
+  </url>
+  
+</urlset>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>test on Imymirror</title>
+    <link>https://imymirror.github.io/blog/categories/test/</link>
+    <description>Recent content in test on Imymirror</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 12 Dec 2021 03:49:28 +0800</lastBuildDate><atom:link href="https://imymirror.github.io/blog/categories/test/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>测试</title>
+      <link>https://imymirror.github.io/blog/posts/test/</link>
+      <pubDate>Sun, 12 Dec 2021 03:49:28 +0800</pubDate>
+      
+      <guid>https://imymirror.github.io/blog/posts/test/</guid>
+      <description>test</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,39 @@
+baseURL = "https://imymirror.github.io/"
+languageCode = "en-us"
+title = "Imymirror"
+theme = "yinyang"
+DefaultContentLanguage = "cn"
+publishDir = "docs"
+
+[author]
+  name = "Imymirror"
+  homepage = "https://imymirror.github.io/blog"
+
+[languages]
+  # [languages.en]
+  #   contentDir = "content/en"
+  #   languageName = "English"
+  #   weight = 1
+  [languages.cn]
+    contentDir = "content/cn"
+    languageName = "Chinese"
+    weight = 2
+
+[params]
+disqus = "" # disqus account name
+extraHead = ''
+mainSections = ["posts"]
+headTitle = "Imymirror"
+
+[[params.socials]]
+name = "RSS"
+link = "/index.xml"
+
+[[params.socials]]
+name = "About"
+link = "https://imymirror.github.io/blog"
+
+[[params.socials]]
+name = "Github"
+link = "https://github.com/Imymirror"
+

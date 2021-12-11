@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://imymirror.github.io/blog/en/categories/</loc>
+    <lastmod>2021-12-12T02:06:19+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="cn"
+                href="https://imymirror.github.io/blog/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://imymirror.github.io/blog/en/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://imymirror.github.io/blog/en/</loc>
+    <lastmod>2021-12-12T02:06:19+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="cn"
+                href="https://imymirror.github.io/blog/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://imymirror.github.io/blog/en/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://imymirror.github.io/blog/en/posts/</loc>
+    <lastmod>2021-12-12T02:06:19+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="cn"
+                href="https://imymirror.github.io/blog/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://imymirror.github.io/blog/en/posts/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://imymirror.github.io/blog/en/posts/test/</loc>
+    <lastmod>2021-12-12T02:06:19+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="cn"
+                href="https://imymirror.github.io/blog/posts/test/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://imymirror.github.io/blog/en/posts/test/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://imymirror.github.io/blog/en/posts/test2/</loc>
+    <lastmod>2021-12-12T02:06:19+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://imymirror.github.io/blog/en/categories/%E8%A7%A3%E5%86%B3/</loc>
+    <lastmod>2021-12-12T02:06:19+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://imymirror.github.io/blog/en/categories/%E9%97%AE%E9%A2%98/</loc>
+    <lastmod>2021-12-12T02:06:19+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://imymirror.github.io/blog/en/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="cn"
+                href="https://imymirror.github.io/blog/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://imymirror.github.io/blog/en/tags/"
+                />
+  </url>
+  
+</urlset>
