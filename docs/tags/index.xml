@@ -5,6 +5,25 @@
     <link>https://imymirror.github.io/tags/</link>
     <description>Recent content in Tags on Imymirror</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://imymirror.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Sun, 10 Sep 2017 00:00:00 +0800</lastBuildDate><atom:link href="https://imymirror.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>hugo</title>
+      <link>https://imymirror.github.io/tags/hugo/</link>
+      <pubDate>Sun, 10 Sep 2017 00:00:00 +0800</pubDate>
+      
+      <guid>https://imymirror.github.io/tags/hugo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>org</title>
+      <link>https://imymirror.github.io/tags/org/</link>
+      <pubDate>Sun, 10 Sep 2017 00:00:00 +0800</pubDate>
+      
+      <guid>https://imymirror.github.io/tags/org/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

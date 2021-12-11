@@ -10,10 +10,10 @@ publishDir = "docs"
   homepage = "https://imymirror.github.io/"
 
 [languages]
-  [languages.en]
-    contentDir = "content/en"
-    languageName = "English"
-    weight = 1
+  # [languages.en]
+  #   contentDir = "content/en"
+  #   languageName = "English"
+  #   weight = 1
   [languages.cn]
     contentDir = "content/cn"
     languageName = "Chinese"
@@ -25,15 +25,19 @@ publishDir = "docs"
 [params]
 headTitle = "Imymirror"
 description = "I am your mirror."
-disqus = "" # disqus account name
+disqus = "imymirror-andy" # disqus account name
 extraHead = ''
 mainSections = ["posts"]
 lazyImage = true
 
-
 [[params.socials]]
 name = "RSS"
 link = "/index.xml"
+
+[[params.socials]]
+name = "about"
+link = "/about"
+
 
 [[params.socials]]
 name = "Github"
