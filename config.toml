@@ -31,15 +31,13 @@ mainSections = ["posts"]
 lazyImage = true
 
 [[params.socials]]
-name = "RSS"
-link = "/index.xml"
-
-[[params.socials]]
-name = "about"
+name = "About"
 link = "/about"
-
 
 [[params.socials]]
 name = "Github"
 link = "https://github.com/Imymirror"
 
+[[params.socials]]
+name = "RSS"
+link = "/index.xml"
