@@ -3,91 +3,80 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://imymirror.github.io/blog/en/categories/</loc>
+    <loc>https://imymirror.github.io/en/</loc>
     <lastmod>2021-12-12T02:06:19+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="cn"
-                href="https://imymirror.github.io/blog/categories/"
+                href="https://imymirror.github.io/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://imymirror.github.io/blog/en/categories/"
+                href="https://imymirror.github.io/en/"
                 />
   </url>
   
   <url>
-    <loc>https://imymirror.github.io/blog/en/</loc>
+    <loc>https://imymirror.github.io/en/posts/</loc>
     <lastmod>2021-12-12T02:06:19+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="cn"
-                href="https://imymirror.github.io/blog/"
+                href="https://imymirror.github.io/posts/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://imymirror.github.io/blog/en/"
+                href="https://imymirror.github.io/en/posts/"
                 />
   </url>
   
   <url>
-    <loc>https://imymirror.github.io/blog/en/posts/</loc>
+    <loc>https://imymirror.github.io/en/posts/test/</loc>
     <lastmod>2021-12-12T02:06:19+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="cn"
-                href="https://imymirror.github.io/blog/posts/"
+                href="https://imymirror.github.io/posts/test/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://imymirror.github.io/blog/en/posts/"
+                href="https://imymirror.github.io/en/posts/test/"
                 />
   </url>
   
   <url>
-    <loc>https://imymirror.github.io/blog/en/posts/test/</loc>
-    <lastmod>2021-12-12T02:06:19+08:00</lastmod>
+    <loc>https://imymirror.github.io/en/posts/about/</loc>
+    <lastmod>2014-04-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://imymirror.github.io/en/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="cn"
-                href="https://imymirror.github.io/blog/posts/test/"
+                href="https://imymirror.github.io/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://imymirror.github.io/blog/en/posts/test/"
+                href="https://imymirror.github.io/en/categories/"
                 />
   </url>
   
   <url>
-    <loc>https://imymirror.github.io/blog/en/posts/test2/</loc>
-    <lastmod>2021-12-12T02:06:19+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://imymirror.github.io/blog/en/categories/%E8%A7%A3%E5%86%B3/</loc>
-    <lastmod>2021-12-12T02:06:19+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://imymirror.github.io/blog/en/categories/%E9%97%AE%E9%A2%98/</loc>
-    <lastmod>2021-12-12T02:06:19+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://imymirror.github.io/blog/en/tags/</loc>
+    <loc>https://imymirror.github.io/en/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="cn"
-                href="https://imymirror.github.io/blog/tags/"
+                href="https://imymirror.github.io/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://imymirror.github.io/blog/en/tags/"
+                href="https://imymirror.github.io/en/tags/"
                 />
   </url>
   

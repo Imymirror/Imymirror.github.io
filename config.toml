@@ -7,31 +7,33 @@ publishDir = "docs"
 
 [author]
   name = "Imymirror"
-  homepage = "https://imymirror.github.io/blog"
+  homepage = "https://imymirror.github.io/"
 
 [languages]
-  # [languages.en]
-  #   contentDir = "content/en"
-  #   languageName = "English"
-  #   weight = 1
+  [languages.en]
+    contentDir = "content/en"
+    languageName = "English"
+    weight = 1
   [languages.cn]
     contentDir = "content/cn"
     languageName = "Chinese"
     weight = 2
 
+[permalinks]
+    post = "/blog/:title/"
+
 [params]
+headTitle = "Imymirror"
+description = "I am your mirror."
 disqus = "" # disqus account name
 extraHead = ''
 mainSections = ["posts"]
-headTitle = "Imymirror"
+lazyImage = true
+
 
 [[params.socials]]
 name = "RSS"
 link = "/index.xml"
-
-[[params.socials]]
-name = "About"
-link = "https://imymirror.github.io/blog"
 
 [[params.socials]]
 name = "Github"

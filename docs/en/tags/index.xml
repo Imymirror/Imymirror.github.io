@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Imymirror</title>
-    <link>https://imymirror.github.io/blog/en/tags/</link>
+    <link>https://imymirror.github.io/en/tags/</link>
     <description>Recent content in Tags on Imymirror</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://imymirror.github.io/blog/en/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://imymirror.github.io/en/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
