@@ -38,6 +38,6 @@ link = "/about"
 name = "Github"
 link = "https://github.com/Imymirror"
 
-[[params.socials]]
-name = "RSS"
-link = "/index.xml"
+# [[params.socials]]
+# name = "RSS0"
+# link = "/index.xml"
