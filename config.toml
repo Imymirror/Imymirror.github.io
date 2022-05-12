@@ -34,9 +34,9 @@ lazyImage = true
 name = "About"
 link = "/about"
 
-[[params.socials]]
-name = "Github"
-link = "https://github.com/Imymirror"
+# [[params.socials]]
+# name = "Github"
+# link = "https://github.com/Imymirror"
 
 # [[params.socials]]
 # name = "RSS0"

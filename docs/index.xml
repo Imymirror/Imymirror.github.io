@@ -29,9 +29,7 @@
       <pubDate>Sat, 11 Dec 2021 00:00:00 +0000</pubDate>
       
       <guid>https://imymirror.github.io/about/</guid>
-      <description>我是一个 Emacser, 不断学习并且完善一份 emacs 配置。
-我是一个编译器爱好者，从零用 C++ 实现过一个玩具 interpreter mirror-monkey，完整实现了《Writting an interpreter in Go》这本书籍中关于 monkey 语言的所有特性。
-我是一个 seeker，有着旺盛的探索热情。</description>
+      <description>I am your mirror.</description>
     </item>
     
   </channel>
